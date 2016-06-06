@@ -1,0 +1,15 @@
+target
+.classpath
+.project
+.settings
+.metadata
+.svn
+bin
+classes
+ailvgo-generator
+Servers
+tomcat
+RemoteSystemsTempFiles
+.idea
+*.iml
+.DS_Store
